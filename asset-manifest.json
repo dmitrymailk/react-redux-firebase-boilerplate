@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/template-boilerplate/static/js/main.dddbb130.chunk.js",
+    "main.js.map": "/template-boilerplate/static/js/main.dddbb130.chunk.js.map",
+    "runtime~main.js": "/template-boilerplate/static/js/runtime~main.fab2e987.js",
+    "runtime~main.js.map": "/template-boilerplate/static/js/runtime~main.fab2e987.js.map",
+    "static/js/2.f6663065.chunk.js": "/template-boilerplate/static/js/2.f6663065.chunk.js",
+    "static/js/2.f6663065.chunk.js.map": "/template-boilerplate/static/js/2.f6663065.chunk.js.map",
+    "index.html": "/template-boilerplate/index.html",
+    "precache-manifest.9d1526e670179dca3e95e7aef9e7d3a9.js": "/template-boilerplate/precache-manifest.9d1526e670179dca3e95e7aef9e7d3a9.js",
+    "service-worker.js": "/template-boilerplate/service-worker.js",
+    "static/media/load.gif": "/template-boilerplate/static/media/load.07bf6f0f.gif"
+  }
+}
