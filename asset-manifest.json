@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/template-boilerplate/static/js/main.dddbb130.chunk.js",
-    "main.js.map": "/template-boilerplate/static/js/main.dddbb130.chunk.js.map",
-    "runtime~main.js": "/template-boilerplate/static/js/runtime~main.fab2e987.js",
-    "runtime~main.js.map": "/template-boilerplate/static/js/runtime~main.fab2e987.js.map",
-    "static/js/2.f6663065.chunk.js": "/template-boilerplate/static/js/2.f6663065.chunk.js",
-    "static/js/2.f6663065.chunk.js.map": "/template-boilerplate/static/js/2.f6663065.chunk.js.map",
-    "index.html": "/template-boilerplate/index.html",
-    "precache-manifest.9d1526e670179dca3e95e7aef9e7d3a9.js": "/template-boilerplate/precache-manifest.9d1526e670179dca3e95e7aef9e7d3a9.js",
-    "service-worker.js": "/template-boilerplate/service-worker.js",
-    "static/media/load.gif": "/template-boilerplate/static/media/load.07bf6f0f.gif"
+    "main.js": "/react-redux-firebase-boilerplate/static/js/main.92488d88.chunk.js",
+    "main.js.map": "/react-redux-firebase-boilerplate/static/js/main.92488d88.chunk.js.map",
+    "runtime~main.js": "/react-redux-firebase-boilerplate/static/js/runtime~main.48660428.js",
+    "runtime~main.js.map": "/react-redux-firebase-boilerplate/static/js/runtime~main.48660428.js.map",
+    "static/js/2.588b8d8a.chunk.js": "/react-redux-firebase-boilerplate/static/js/2.588b8d8a.chunk.js",
+    "static/js/2.588b8d8a.chunk.js.map": "/react-redux-firebase-boilerplate/static/js/2.588b8d8a.chunk.js.map",
+    "index.html": "/react-redux-firebase-boilerplate/index.html",
+    "precache-manifest.77af4c71b5b2bd17284e918ab0dcb5c4.js": "/react-redux-firebase-boilerplate/precache-manifest.77af4c71b5b2bd17284e918ab0dcb5c4.js",
+    "service-worker.js": "/react-redux-firebase-boilerplate/service-worker.js",
+    "static/media/load.gif": "/react-redux-firebase-boilerplate/static/media/load.07bf6f0f.gif"
   }
 }
